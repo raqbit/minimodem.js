@@ -1,0 +1,12 @@
+[submodule "build/minimodem"]
+	path = build/minimodem
+	url = https://github.com/kamalmostafa/minimodem
+	ignore = dirty
+[submodule "build/libsndfile"]
+	path = build/libsndfile
+	url = https://github.com/erikd/libsndfile
+	ignore = dirty
+[submodule "build/fftw3"]
+	path = build/fftw3
+	url = https://salsa.debian.org/science-team/fftw3.git
+    ignore = dirty
